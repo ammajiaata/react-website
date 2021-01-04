@@ -16,7 +16,7 @@ const InfoSection =({lightBg,id,imgStart,topLine,lightText,darkText,desciption,i
                       <TextWrapper>
                           
                           <Heading lightText={lightText}>Amma Ji M.P. Chakki Aata</Heading>
-                          <Subtitle darkText={darkText}>Number One Quality,Excellent Taste,Easily degisteable                               100% customer retention,100% customer satisfaction</Subtitle>
+                          <Subtitle darkText={darkText}>Number One Quality,Excellent Taste,Easily digestible                               100% customer retention,100% customer satisfaction</Subtitle>
                           <Subtitle darkText={darkText}></Subtitle>
                           <TopLine>Contains all the right nutrients,proteins,fibres, minerals,vitamins fundamental for wholistic growth</TopLine>
                       </TextWrapper>

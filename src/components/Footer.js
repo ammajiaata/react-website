@@ -39,13 +39,13 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>Want to Sell our product at your Store?</h2>
             <p></p>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <a href="tel:9976462222">Call Us</a>
+            <a href='anshgoel098@gmail.com'>Mail Us</a>
           </div>
           <div class='footer-link-items'> 
             <h2>Let us know your feedback</h2>
             <a href='https://www.facebook.com/yogesh.goel.79656'>Facebook</a>
-            <Link to='/'>Youtube</Link>
+            <a href='https://www.linkedin.com/in/ansh-goel-4743a714b/'>LinkedIn</a>
             <Link to='/'>Twitter</Link>
           </div>
         </div>

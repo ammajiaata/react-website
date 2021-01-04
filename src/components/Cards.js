@@ -1,16 +1,17 @@
 import React from 'react';
 import '../Cards.css';
 import CardItem from './CardItem';
-import Icon1 from '../images/main.jpg';
-import Icon2 from '../images/roti.jpg'
 import Icon3 from '../images/bakhri.png';
 import Icon4 from '../images/kachori.png';
 import Icon5 from '../images/malpua.png';
 import Icon6 from '../images/kid1.jpg';
 import Icon7 from '../images/farmer1.jpg';
-import Icon8 from '../images/fam1.jpg';
+import Icon8 from '../images/fam1.jpg'; 
+import kg5 from '../images/kg5.jpg'
+import img10 from '../images/kg10.jpg'
 
-function Cards() {
+
+function Cards() { 
   return (
     <div className='cards'>
      
@@ -21,15 +22,15 @@ function Cards() {
 
           <ul className='cards__items'>
             <CardItem
-              src={Icon2}
+              src={kg5}
               text=''
-              label='8KG Packets' 
+              label='5KG Packets' 
               path='/products'
             />
             <CardItem
-              src={Icon1}
+              src={img10}
               text=''
-              label='5KG Packets'
+              label='10KG Packets'
               path='/products'
             
             />
